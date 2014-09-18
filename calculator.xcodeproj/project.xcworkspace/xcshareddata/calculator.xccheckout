@@ -8,24 +8,33 @@
 	<string>79EF9203-6EBA-47E6-A4B9-A06685EF2C25</string>
 	<key>IDESourceControlProjectName</key>
 	<string>calculator</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F62CEC72C862D96BE424D3CA7BEB14E502A1055D</key>
+		<string>https://github.com/darknessomi/OC-Calculator.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>calculator.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>0732120B-623D-41B5-9ADA-7D6C643417FB</key>
-		<string>../../../../Desktop/calculator</string>
+		<key>F62CEC72C862D96BE424D3CA7BEB14E502A1055D</key>
+		<string>../..</string>
 	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/darknessomi/OC-Calculator.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>0732120B-623D-41B5-9ADA-7D6C643417FB</string>
+	<string>F62CEC72C862D96BE424D3CA7BEB14E502A1055D</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>0732120B-623D-41B5-9ADA-7D6C643417FB</string>
+			<string>F62CEC72C862D96BE424D3CA7BEB14E502A1055D</string>
 			<key>IDESourceControlWCCName</key>
-			<string>calculator</string>
+			<string>OC-Calculator</string>
 		</dict>
 	</array>
 </dict>
